@@ -25,4 +25,4 @@ jobs:
       - name: Run a one-line script
         run: run |
   $i=2
-  Invoke-Expression ".\run_$i.bat"
+  Invoke-Expression ".\run.bat"
